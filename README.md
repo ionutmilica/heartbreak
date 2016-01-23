@@ -1,19 +1,21 @@
-# heartbreak
+# HeartBreak
 
-Instructions:<br/>
-<br/>
-1. Download unity <br/>
-2. Open project <br/>
-3. File -> Open Scene <br/>
-4. Pick start.unity <br/>
-<br/>
-Building:<br/>
-<b>- Fast demo:</b><br/>
-Press Play button <br/>
+It's a 2d platformer game made for a local hackathon contest.
 
-<b>- For build:</b>
-1. File -> Build Settings <br/>
-2. Pick Web Player <br/>
-3. Click Build & Run button <br/>
+Team:
+* Ionut Milica
+* Alex Andonie
+* Robert Bogdan
+* Erika Molnar
 
-Resolution: 900 x 900
+Some screens:
+
+Start screne:
+
+![Start Window](img/Start.png?raw=true "Start")
+
+Game scene:
+![Game Window](img/Game.png?raw=true "Game")
+
+Die scene:
+![Die Window](img/Die.png?raw=true "Die")
