@@ -12,10 +12,10 @@ Some screens:
 
 Start screne:
 
-![Start Window](img/Start.png?raw=true "Start")
+![Start Window](img/start.png?raw=true "Start")
 
 Game scene:
-![Game Window](img/Game.png?raw=true "Game")
+![Game Window](img/game.png?raw=true "Game")
 
 Die scene:
-![Die Window](img/Die.png?raw=true "Die")
+![Die Window](img/die.png?raw=true "Die")
